@@ -1,0 +1,10 @@
+#Title {
+    font-size: 100px;
+    color: black;
+    position: absolute;
+    left: 200px;
+    top: 100px
+}
+#Text {
+    color: gray;
+}
